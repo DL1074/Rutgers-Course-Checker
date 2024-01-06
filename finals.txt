@@ -1,0 +1,10 @@
+10 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06579
+59 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06619
+60 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06620
+61 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06621
+62 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06622
+63 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06623
+64 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06624
+65 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06625
+66 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06626
+67 https://sims.rutgers.edu/webreg/editSchedule.htm?login=cas&semesterSelection=12024&indexList=06627
